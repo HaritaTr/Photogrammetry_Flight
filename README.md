@@ -1,4 +1,5 @@
 **Yazılım Kullanım Rehberi;**
+=============================
 
 Kullanımı çok basittir. Yazılımı çalıştırdığınız zaman;
 
