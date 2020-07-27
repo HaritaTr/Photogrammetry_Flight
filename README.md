@@ -1,7 +1,7 @@
 **Yazılım Kullanım Rehberi;**
 =============================
 
-Kullanımı çok basittir. Yazılımı çalıştırdığınız zaman;
+*Kullanımı çok basittir.* Yazılımı çalıştırdığınız zaman;
 
 + Mk;Harita Ölçeği
 + C; Sabit değer
