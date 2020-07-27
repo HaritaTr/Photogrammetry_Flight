@@ -3,7 +3,7 @@
 
 **Kullanımı çok basittir.** Yazılımı çalıştırdığınız zaman;
 
-+ Mk;Harita Ölçeği
++ Mk; Harita Ölçeği
 + C; Sabit değer
 - [ ] Resim Ölçeğinin hesaplanmasında bilinmesi gereken “C” sabit değerler;
 - [ ] Büyük incelik (presizyon) isteyen işlerde C=100,
