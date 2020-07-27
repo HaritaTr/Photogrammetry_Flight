@@ -2,7 +2,7 @@
 =============================
 
 *Kullanımı çok basittir.* Yazılımı çalıştırdığınız zaman;
-
+-------------------------
 + Mk;Harita Ölçeği
 + C; Sabit değer
 - [ ] Resim Ölçeğinin hesaplanmasında bilinmesi gereken “C” sabit değerler;
