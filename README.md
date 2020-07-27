@@ -4,6 +4,14 @@ Kullanımı çok basittir. Yazılımı çalıştırdığınız zaman;
 
 + Mk;Harita Ölçeği
 + C; Sabit değer
+Resim Ölçeğinin hesaplanmasında bilinmesi gereken “C” sabit değerler;
+Büyük incelik (presizyon) isteyen işlerde C=100,
+Yol projeleri detay çalışmalarında C=125,
+Mühendislik yapılarında detay planlamasında C=150,
+Grafik kadastro çalışmalarında C=175,
+Genel haritalama işlemlerinde C=200,
+Planlama amaçlı işlerde C=225
+olarak alınır.
 + f; Odak noktası
 + p; Enine Örtü oranı
 + q; Boyuna Örtü oranı
