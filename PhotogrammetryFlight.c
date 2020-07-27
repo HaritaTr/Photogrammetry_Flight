@@ -45,7 +45,7 @@ int main()
 		// 2- Bilinmeyenlerin Hesaplanması;
 	/* 2.1 Resim ölçeğinin hesaplanması
 	Mr = C *(Mk); */
-	Mr = C * (Mk);
+	Mr = 200 / pow(Mk, 1 / 2);
 	printf("\nResim ölçeği (Mr) değeri: %Lf\n", Mr);
 	/* 2.2 Şerit eksenleri arasındaki uzunluğun hesaplanması
 	A = Mr * (1 – (q / 100)) * (S / 100); */
