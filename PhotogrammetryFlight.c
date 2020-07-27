@@ -11,34 +11,34 @@ int main()
 	
 		// İlk önce bilinenleri isteyelim.
 	// Mk; Harita ölçeği'ni isteyelim.
-	printf("Harita Ölçeği (Mk) değerini giriniz: ", Mk);
+	printf("Harita Ölçeği (Mk) değerini giriniz: ");
 	scanf("%d", &Mk);
 	// C; Sabit değer'ini isteyelim.
-	printf("C sabit değerini giriniz: ", C);
+	printf("C sabit değerini giriniz: ");
 	scanf("%d", &C);
 	// f; Odak noktası
-	printf("Odak noktası (f) santimetre(cm) değerini giriniz: ", f);
+	printf("Odak noktası (f) santimetre(cm) değerini giriniz: ");
 	scanf("%d", &f);
 	// p; Enine örtü oranı
-	printf("Enine örtü oranı (p) değerini giriniz: ", p);
+	printf("Enine örtü oranı (p) değerini giriniz: ");
 	scanf("%d", &p);
 	// q; Boyuna örtü oranı
-	printf("Boyuna örtü oranı (q) değerini giriniz: ", q);
+	printf("Boyuna örtü oranı (q) değerini giriniz: ");
 	scanf("%d", &q);
 	// S; Karesel  formatta resim kenarı
-	printf("Karesel formatta resim kenarı (S) santimetre(cm) değerini giriniz: ", S);
+	printf("Karesel formatta resim kenarı (S) santimetre(cm) değerini giriniz: ");
 	scanf("%d", &S);
 	// Lq; Arazi genişliği
-	printf("Arazi genişliği (Lq) kilometre(km) değerini giriniz: ", Lq);
+	printf("Arazi genişliği (Lq) kilometre(km) değerini giriniz: ");
 	scanf("%d", &Lq);
 	// Lp; Uçuş şeridi uzunluğu
-	printf("Uçuş şeridi uzunluğu (Lp) kilometre(km) değerini giriniz: ", Lp);
+	printf("Uçuş şeridi uzunluğu (Lp) kilometre(km) değerini giriniz: ");
 	scanf("%d", &Lp);
 	// V; Uçağın hızı
-	printf("Uçağın hızı (V) kilometre/saat(km/h) değerini giriniz: ", V);
+	printf("Uçağın hızı (V) kilometre/saat(km/h) değerini giriniz: ");
 	scanf("%d", &V);
 	// E; Uçağın manevra kabiliyeti (Şeritler arası dönüş uzaklığı)
-	printf("Uçağın manevra kabiliyetini (E) kilometre(km) değerini giriniz: ", E);
+	printf("Uçağın manevra kabiliyetini (E) kilometre(km) değerini giriniz: ");
 	scanf("%d", &E);
 
 	printf("\n===== Hesaplananlar!!! =====\n");
