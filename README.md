@@ -26,6 +26,7 @@ Kullanımı çok basittir. Yazılımı çalıştırdığınız zaman;
 Değerler girildikten sonra geri kalanı hesaplanır. :)
 
  **Hesaplanan;**
+ ---------------
 
 + Resim ölçeği (Mr)
 + Şerit eksenleri arasındaki uzunluk (A)
