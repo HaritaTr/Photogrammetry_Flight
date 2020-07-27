@@ -1,4 +1,4 @@
-** Yazılım Kullanım Rehberi; **
+**Yazılım Kullanım Rehberi;**
 
 Kullanımı çok basittir. Yazılımı çalıştırdığınız zaman;
 
@@ -15,7 +15,7 @@ Kullanımı çok basittir. Yazılımı çalıştırdığınız zaman;
 Yukarıdaki değerlerin girilmesi gerekmektedir. 
 Değerler girildikten sonra geri kalanı hesaplanır. :)
 
- ** Hesaplanan; **
+ **Hesaplanan;**
 
 + Resim ölçeği (Mr)
 + Şerit eksenleri arasındaki uzunluk (A)
