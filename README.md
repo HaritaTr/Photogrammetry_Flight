@@ -12,6 +12,7 @@ Kullanımı çok basittir. Yazılımı çalıştırdığınız zaman;
 + Lp; Uçuş Şeridi uzunluğu
 + V; Uçağın hızı
 + E; Uçağın Manevra kabiliyeti (Şeritler arası dönüş uzaklığı)
+
 Yukarıdaki değerlerin girilmesi gerekmektedir. 
 Değerler girildikten sonra geri kalanı hesaplanır. :)
 
