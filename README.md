@@ -9,7 +9,7 @@ Hava fotoğrafçılığının ana görevi arazinin doğal ve doğal olmayan yüz
 **Yazılım Kullanım Rehberi;**
 =============================
 
-**Kullanımı çok basittir.** Yazılımı çalıştırdığınız zaman;
+*Yazılımı çalıştırdığınız zaman;*
 
 + Mk; Harita Ölçeği
 + C; Sabit değer
