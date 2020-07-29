@@ -2,7 +2,8 @@
 
 **Amaç**
 ========
-Hava fotoğrafçılığının ana görevi arazinin doğal ve doğal olmayan yüzeyinin üç boyutlu belirlenmesinin sağlanmasıdır. Stereofotogrametri için koşul, arazi yüzeyindeki her noktanın en az iki resimde izdüşümün olmasıdır. Resimlerin bir şerit içerisinde en az %50 oranında  örtü oranına sahip olmaları durumunda bu koşul sağlanır. Tek resim fotogrametrisinde ise yer yüzeyinin her noktasının yalnızca bir resimde izdüşümünün olması yeterlidir. Stereofotogrametri de karesel formatta resim çekme makineleri söz konusudur. Haritalanacak bölge üzerinde paralel şeritler ile uçulur.(Fotogrametri Cilt I, Karl Kraus) Uçuş planlaması için geometrik bağıntılar şekil-3’den görülebilir. Bu yazılım Hava Fotogrametrisi’ndeki geometrik bağıntıların hesaplanmasında, yardımcı olmak amaçlı kullanılmaktadır.
+Hava fotoğrafçılığının ana görevi arazinin doğal ve doğal olmayan yüzeyinin üç boyutlu belirlenmesinin sağlanmasıdır. Stereofotogrametri için koşul, arazi yüzeyindeki her noktanın en az iki resimde izdüşümün olmasıdır. Resimlerin bir şerit içerisinde en az %50 oranında  örtü oranına sahip olmaları durumunda bu koşul sağlanır. Tek resim fotogrametrisinde ise yer yüzeyinin her noktasının yalnızca bir resimde izdüşümünün olması yeterlidir. Stereofotogrametri de karesel formatta resim çekme makineleri söz konusudur. Haritalanacak bölge üzerinde paralel şeritler ile uçulur.
+Bu yazılım Hava Fotogrametrisi’ndeki geometrik bağıntıların hesaplanmasında, yardımcı olmak amaçlı kullanılmaktadır.
 
 **Yazılım Kullanım Rehberi;**
 =============================
